@@ -4,7 +4,7 @@ Simple ESP/Wallhacks for CSGO in C++
  -- If you can not see boxes around the enemys do this:
 --------------------------------------------------------------------
 1. Delete your "build" folder and open the .sln file with visual studio preview with the game dev extension
-- To set your offsets go into the main.cpp file and at line 15-23. Update the offsets to your offsets -> 0xDEA964 | You get it of the use of hazedumper
+- To set your offsets go into the main.cpp file and at line 15-23. Update the offsets to your offsets -> 0xDEA964 | You can get it by using hazedumper
 2. On the top you select "Release" and "x86"
 3. Do a rightclick on the right upper side on "external_esp_tutorial" and go to "Properties"
 - Configuration Properties -- General -- Configuration Type -- select the exe Application
